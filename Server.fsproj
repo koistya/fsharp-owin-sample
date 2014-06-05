@@ -5,7 +5,8 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>c24b5b01-979b-47aa-b8d8-ab75bd2206f7</ProjectGuid>
+    <ProjectGuid>{c24b5b01-979b-47aa-b8d8-ab75bd2206f7}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{f2a71f9b-5d33-465a-a702-920d77279786}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <RootNamespace>Server</RootNamespace>
     <AssemblyName>Server</AssemblyName>
